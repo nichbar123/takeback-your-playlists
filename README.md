@@ -2,7 +2,7 @@
 
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
-![Runs on Colab](https://img.shields.io/badge/Runs%20on-Google%20Colab-orange)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FsaizIMRJOJvD8E8qB-LgrFlsAmx2Dnw#scrollTo=zCu2y34qZLxn)
 ![Notebook](https://img.shields.io/badge/Format-Jupyter%20Notebook-lightgrey)
 
 > Yo ho ho ☠️  
