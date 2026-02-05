@@ -1,5 +1,5 @@
 # Take Back Your Playlist ✊
-# 🎵 Spodify → MP3
+
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Runs on Colab](https://img.shields.io/badge/Runs%20on-Google%20Colab-orange)
@@ -37,7 +37,7 @@ Always respect artists, creators, platform terms of service, and local copyright
 No local installs required — everything runs in **Google Colab**.
 
 ---
-
+# 🎵 Spodify → MP3
 ## 📤 Step 1: Export Your Playlist
 
 Use **Exportify** to export your Spotify playlist as a CSV:
